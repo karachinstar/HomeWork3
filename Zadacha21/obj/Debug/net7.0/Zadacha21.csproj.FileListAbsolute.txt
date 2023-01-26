@@ -1,0 +1,15 @@
+D:\GB\Language\HW 3\Zadacha21\bin\Debug\net7.0\Zadacha21.exe
+D:\GB\Language\HW 3\Zadacha21\bin\Debug\net7.0\Zadacha21.deps.json
+D:\GB\Language\HW 3\Zadacha21\bin\Debug\net7.0\Zadacha21.runtimeconfig.json
+D:\GB\Language\HW 3\Zadacha21\bin\Debug\net7.0\Zadacha21.dll
+D:\GB\Language\HW 3\Zadacha21\bin\Debug\net7.0\Zadacha21.pdb
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.csproj.AssemblyReference.cache
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfoInputs.cache
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfo.cs
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.csproj.CoreCompileInputs.cache
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.dll
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\refint\Zadacha21.dll
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.pdb
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\Zadacha21.genruntimeconfig.cache
+D:\GB\Language\HW 3\Zadacha21\obj\Debug\net7.0\ref\Zadacha21.dll
